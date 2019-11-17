@@ -1,6 +1,6 @@
 main {
     display:flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
     
@@ -25,5 +25,12 @@ main {
     height: 150px;
     border-radius:5px;
     background-color: yellow;
+}
+#entrada{
+    margin: auto auto;
+}
+
+main article label{
+    margin:10px;
 }
 
